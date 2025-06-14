@@ -1,6 +1,6 @@
 ---
-description: 
-globs: 
+description:
+globs:
 alwaysApply: true
 ---
 # Marpテンプレート更新ルール
@@ -10,6 +10,7 @@ alwaysApply: true
 1. テンプレート
    - テンプレートは ./@YYYYMMDD_template.md を元に生成する
    - YYYYMMDDを日付にして、最適なタイトルでファイルを作成すること
+   - /outputディレクトリは以下に作成すること
 
 2. 1スライドあたりの文字数制限
    - タイトル: 最大40文字
